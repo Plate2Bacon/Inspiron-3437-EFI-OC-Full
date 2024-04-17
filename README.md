@@ -16,6 +16,7 @@ Simply download this EFI from Releases and paste to your USB or SSD. Done!
 - Fn keys (Volume and Brightness)
 - Brightness
 - Graphics (HD4400)
+# If your bluetooth is not working tape the pin 51 on the card
+*Bluetooth in the EFI only works on Monterey or higher. DON'T TRY ON BIGSUR OR OLDER!
 # What's not Working?
  Tell me
-# Thank you!
